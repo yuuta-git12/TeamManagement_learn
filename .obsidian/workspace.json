@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dashboards/my-team-tasks.md",
+                "file": "タスクの振り方.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my-team-tasks"
+              "title": "タスクの振り方"
             }
           }
         ],
@@ -229,12 +229,16 @@
   },
   "active": "3a4b86605efbe45b",
   "lastOpenFiles": [
+    "仕様の調査方法.md",
+    "仕様理解の型.md",
+    "タスクの振り方.md",
+    "タスクの分類に関して.md",
+    "dashboards/my-team-tasks.md",
     "tasks/task_未着手.md",
     "tasks/task_処理中.md",
     "tasks/task_完了.md",
     "tasks/task_PR済.md",
     "templates/task.md",
-    "dashboards/my-team-tasks.md",
     "README.md",
     "2026-01-08.md",
     "Invalid date.md",
@@ -242,7 +246,6 @@
     "tasks",
     "dashboards",
     "2026-01-15.md",
-    "タスクの分類に関して.md",
     "templates"
   ]
 }
