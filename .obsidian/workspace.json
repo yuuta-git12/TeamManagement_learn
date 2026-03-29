@@ -38,17 +38,18 @@
             }
           },
           {
-            "id": "3a4b86605efbe45b",
+            "id": "68318e40924188ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "タスクの振り方.md",
-                "mode": "source",
-                "source": false
+                "aFile": "課題指示のテンプレート.md",
+                "bFile": "課題指示のテンプレート.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "タスクの振り方"
+              "icon": "diff",
+              "title": "Diff: 課題指示のテンプレート  (Index)"
             }
           }
         ],
@@ -215,25 +216,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新規ベースを作成": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false
     }
   },
-  "active": "3a4b86605efbe45b",
+  "active": "68318e40924188ea",
   "lastOpenFiles": [
     "仕様の調査方法.md",
+    "課題指示のテンプレート.md",
     "仕様理解の型.md",
+    "コードレビューで意識すること.md",
+    "レビューチェックリスト.md",
+    "リーダー業務.md",
+    "dashboards/my-team-tasks.md",
     "タスクの振り方.md",
     "タスクの分類に関して.md",
-    "dashboards/my-team-tasks.md",
+    "参考記事の感想1.md",
     "tasks/task_未着手.md",
     "tasks/task_処理中.md",
     "tasks/task_完了.md",
